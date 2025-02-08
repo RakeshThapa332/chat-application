@@ -66,3 +66,8 @@ The system uses a class `frnd` to hold information about each user and their cha
    g) Logout: Logout of your current session.
 
    Follow the prompts to enter student details and interact with the system.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
