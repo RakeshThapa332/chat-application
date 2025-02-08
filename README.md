@@ -65,7 +65,7 @@ The system uses a class `frnd` to hold information about each user and their cha
 
    g) Logout: Logout of your current session.
 
-   Follow the prompts to enter student details and interact with the system.
+   Follow the prompts to interact with the system.
 
 
 ## License
